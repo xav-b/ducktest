@@ -1,4 +1,4 @@
-const archimede = require(`${process.cwd()}/lib`)
+const archimede = require(`${process.cwd()}/src`)
 // const Joi = require('joi')
 
 const contract = require('../../contracts/coincap/markets.conf.js')
